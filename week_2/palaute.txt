@@ -1,0 +1,14 @@
+Janne Kerola, 2311849
+
+Tehtävänanto oli helppo ymmärtää ja toteuttaa.
+Omatoimisen opiskelun jälkeen olioiden kanssakäyminen
+on suhteellisen tuttu käsite, ja suhteiden suunnittelu
+oli aiheen vuoksi luonnollisen helppo käsitellä.
+
+Käytinkin suurimman osan ajasta luodessä graafista käyttö-
+liittymää ensin JavaFX:llä, sitten swing:lillä.
+Tajusin kuitenkin keskenkaiken, ettei JavaFX tule paketoituna Javan
+kanssa ja uudelleenaloitus swingiä käyttäen kesti liian kauan deadlinen
+lähestyessä. Siksi palautan tämän tehtävän vielä komentolinjaversiona.
+
+Ehkäpä ensi tehtävässä on jo toimiva graafinen käyttöliittymä.

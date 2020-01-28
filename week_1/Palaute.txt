@@ -1,0 +1,12 @@
+Janne Kerola, opisknro 2311849
+
+Käytetty työmäärä n. 8 tuntia
+
+
+Tehtävänanto oli pääosin helppo suunnitella ja toteuttaa.
+Suurimmat vaikeudet kohtasin syntaksin opettelussa, syötteen analysoinnissa sekä virheiden käsittelyssä.
+Erityisesti tekstipohjaisten valikoiden luominen hidasti prosessia. Lopulta tyydyin yksinkertaisiin while-silmukoihin, vaikka ne eivät olisi suoranaisesti paras ratkaisu.
+
+Työskennellessä opin paljon Javan syntaksista sekä constructoreiden toiminnasta. Erityisesti mielenkiintoa aiheutti parametrien järjestyksen vaikutus muuntujiin.
+
+Kiitos deadlinejen siirrosta, sillä ilman lisäaikaa en välttämättä olisi ehtinyt opiskella asioita ja palauttaa ensimmäistä viikkotehtävää ajoissa.

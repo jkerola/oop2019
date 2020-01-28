@@ -1,0 +1,14 @@
+Janne Kerola, opisknro 2311849 
+
+Työtunnit ~ 15h  
+
+Tehtävänanto oli kohtuu hauska toteuttaa. Opiskelin swing-kirjaston  
+käyttöä ja sain sovellettua opittua tehtävään värkkäämällä yksinkertaisen  
+mutta toimivan GUIn. Jälkeenpäin koko höskän koodaaminen käsin oli typerä
+ratkaisu, sillä ilmeisesti NetBeans tarjoaa toimivan GUI suunnittelu 
+työkalun, joka luo sopivat funktiot yms. valmiiksi. Tekemisen tunne oli  
+silti läsnä. Hankaluuksia tuli vastaan Javan käytännöissä. Java ei 
+tunne vaihtoehtoisia parametrejä, eikä tuo objektin luokkaa mukaansa  
+kun olioita heitellään metodien avulla edestakaisin. Tulostusfunktio 
+jäi tällä kertaa vähän tönköksi siis, mutta ratkaisu toimii käytönnössä. 
+

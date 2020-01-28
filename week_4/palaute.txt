@@ -1,0 +1,20 @@
+Viikkotehtävä 4, Olio-ohjelmointi 2019
+Janne Kerola, opisknro 2311849
+
+Työtunnit n. 8 tuntia
+
+Graafisen käyttöliittymän luominen huomattavasti helpompaa toistamiseen!
+Tutkin myös viime viikkotehtävässä huomattua ongelmaa, jossa olioita
+syötetään parametreinä metodista toiseen. Myös tässä tehtävässä
+ArrayListiä käytettäessä sama ongelma toistuu, kun ArrayList ei itsessään
+kerro mitä olioita se sisältää. Tällä kertaa ratkaisu oli yksinkertainen,
+sillä jokainen olio listassa on samaa tyyppiä, jolloin listan yksilöt
+voidaan castata sopivaksi olio-tyypiksi:
+
+InsuranceInfo info = (InsuranceInfo) database.get(i);
+
+Toisaalta Arraylistien käyttö olioiden säilyttämiseen on kohtuu tuttu asia
+jo edeltävistä tehtävistä. Pääohjelma oli myös mukavan yksinkertainen
+toteuttaa, sillä luokkien välistä kanssakäymistä oli hyvin vähän.
+Sort-metodin toteutus oli hauska lisäkohta! Harkitsin hetken toteuttaa myös
+järjestystä muokkaavan algoritmin, mutta aika on kallista.

@@ -1,0 +1,14 @@
+Viikkotehtävä 6,
+
+Janne Kerola, opisknro 2311849
+
+Vappu lähestyy ja kurssi lähenee loppuaan. Paluu tekstipohjaiseen
+syöttöön on mukavaa vaihtelua, ja tehtävän anto oli kepeän helppo
+tapa lopettaa kurssi hyvällä tuulella. Tehtävässä tuli kerrattua
+miten tiedostoja luetaan ja miten inputit kannattaa siivota. 
+Olen melko tyytyväinen työhöni, sain pelin main-luokan erittäin siistiksi
+aikaisempaan työhön verrattuna. Kiireiden puutteessa en ehtinyt toteuttaa
+bonus-metodien käyttöä ohjelmassa, mutta niiden pitäisi toimia ihan ok,
+ainakin teoriasssa.
+
+Kiitos kurssista ja hyvää kesää tarkistajalle!

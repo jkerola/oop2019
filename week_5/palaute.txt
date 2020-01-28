@@ -1,0 +1,18 @@
+Olio-ohjelmointi 2019, viikkotehtävä 5
+
+Janne Kerola, opisknro 2311849
+
+Työtunnit n. 17h
+
+Tehtävä oli huomattavasti haastavampi kuin arvelinkaan.
+Graafinen käyttöliittymä on tällä kertaa monimutkaisempi kuin ennen,
+ja luokkien väliset kanssakäymiset aiheuttivat enemmän vaivaa
+pääohjelman debuggaamisessa. Tulipahan opittua paljon java-tulkin
+käyttäytymisestä, kun jotain puuttuu (tai tulkki luulee jonkin puuttuvan.)
+
+Talotyypin valinta tuli toteutettua vähän kehnosti, mutta tyypeillä ei
+ollut keskenään juurikaan eroja, joten toteutus on käypä. Perusluokalta
+peritään get/set metodit ja print metodi, joka muokattu sopivaksi tyypille.
+
+Muutoin olen kohtuu tyytyväinen tulokseen! Ainakin työtunteja katsoen
+se on suurin suoritus tähän mennessä.
